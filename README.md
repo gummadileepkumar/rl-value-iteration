@@ -67,8 +67,9 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 
 ## success rate for the optimal policy.
-![RL_4 3](https://github.com/user-attachments/assets/4dd285c3-c134-4799-a052-48de6c051a5a)
 
+
+![RL_4 3](https://github.com/user-attachments/assets/ab54f505-02c5-42c1-bb2e-66c911f609d2)
 
 
 ## RESULT:
